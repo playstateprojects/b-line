@@ -1,0 +1,10 @@
+{
+  "name": "B-Line",
+  "short_name": "B-Line",
+  "description": "A fluid, redraw-based digital inking experiment.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f7f5",
+  "theme_color": "#f7f7f5",
+  "icons": []
+}
